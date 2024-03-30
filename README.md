@@ -20,4 +20,4 @@ The repository includes Jupyter Notebooks with detailed explanations, code, and 
 
 
 
-The trained LSTM models are utilized to predict future stock prices, and portfolio optimization strategies are applied based on these predictions. The project aims to provide insights into using advanced machine learning techniques for portfolio management and investment decision-making.
+The trained LSTM models are utilized to predict future stock prices, and portfolio optimization strategies are applied based on these predictions. Ultimately, the project aims to provide insights into using advanced machine learning techniques for portfolio management and investment decision-making in the Moroccan market.
